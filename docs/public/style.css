@@ -68,3 +68,7 @@ p > img {
 .VPButton {
     border-radius: 6px !important;
 }
+
+.VPNav .content {
+    color: #4c5a67;
+}

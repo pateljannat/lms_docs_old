@@ -39,9 +39,17 @@ export default defineConfig({
 
 function nav() {
   return [
-    {
-      text: 'Home',
-      link: 'https://frappelms.com/',
-    }
+        {
+        text: 'Home',
+        link: 'https://frappelms.com/',
+        },
+        {
+            text: 'About US',
+            link: 'https://frappelms.com/about-us',
+        },
+        {
+            text: 'Pricing',
+            link: 'https://frappelms.com/pricing',
+        }
   ];
 }
